@@ -3,6 +3,9 @@
 
 This repository hosts the materials and resources for two community sessions presented at the **AVD TechFest 2024** in Amsterdam. These sessions explore the integration of AI in Asure Virtual Desktop (AVD) troubleshooting and the transformative impact of Generative AI on business operations.
 
+![image](https://github.com/user-attachments/assets/65a57eb8-1a9d-4e17-8e2f-463f7cb40b8f)
+
+
 ---
 
 ## Sessions Overview
