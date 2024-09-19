@@ -1,7 +1,7 @@
 
 # AI Sessions at AVD TechFest 2024, Amsterdam
 
-This repository hosts the materials and resources for two community sessions presented at the **AVD TechFest 2024** in Amsterdam. These sessions explore the integration of AI in Azure Virtual Desktop (AVD) troubleshooting and the transformative impact of Generative AI on business operations.
+This repository hosts the materials and resources for two community sessions presented at the **AVD TechFest 2024** in Amsterdam. These sessions explore the integration of AI in Asure Virtual Desktop (AVD) troubleshooting and the transformative impact of Generative AI on business operations.
 
 ---
 
@@ -11,17 +11,17 @@ This repository hosts the materials and resources for two community sessions pre
 
 In this session, we delve into how artificial intelligence (AI) can revolutionize the way you troubleshoot and diagnose errors within Azure Virtual Desktop environments. Designed for IT professionals, it provides practical insights into integrating AI-driven solutions to:
 
-- Quickly identify and analyze common AVD issues.
+- Quickly identify and analyse common AVD issues.
 - Predict potential failures and system performance bottlenecks.
-- Optimize system performance, reducing downtime and improving user experience.
+- Optimise system performance, reducing downtime and improving user experience.
 
-Key AI technologies discussed include predictive failure analysis, error resolution optimization, and system diagnostics enhancement.
+Key AI technologies discussed include predictive failure analysis, error resolution optimisation, and system diagnostics enhancement.
 
 ### 2. Expanding Horizons with Generative AI: Strategic Transformations in Business Operations
 
 This session explores how **Generative AI** is transforming industries beyond traditional applications such as chatbots and natural language processing. Tools like **Microsoft Copilot** and **Azure OpenAI** are showcased for their role in:
 
-- Revolutionizing efficiency and productivity across industries such as finance, healthcare, and manufacturing.
+- Revolutionising efficiency and productivity across industries such as finance, healthcare, and manufacturing.
 - Facilitating advanced data analysis and automation of routine tasks.
 - Enhancing decision-making processes through AI-powered insights.
 
@@ -39,7 +39,7 @@ Sign up for a **14-day free trial** at [EtherAssist.ai](https://app.etherassist.
 
 ## Purchase the Second Edition of *Mastering Azure Virtual Desktop*
 
-We are excited to announce the release of the **second edition** of *Mastering Azure Virtual Desktop*—your comprehensive guide to implementing and optimizing Azure Virtual Desktop in your enterprise. This edition covers advanced strategies for AVD management, scaling, and security.
+We are excited to announce the release of the **second edition** of *Mastering Azure Virtual Desktop*—your comprehensive guide to implementing and optimising Azure Virtual Desktop in your enterprise. This edition covers advanced strategies for AVD management, scaling, and security.
 
 <img src="https://m.media-amazon.com/images/I/61d36gOc1HL._SL1360_.jpg" width="300">
 
