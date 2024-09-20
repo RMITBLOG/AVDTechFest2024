@@ -58,6 +58,9 @@ This will:
 4. Perform an AI-based assessment using either Azure OpenAI or EtherAssist, depending on your selection.
 5. Display the AI-generated recommendations and insights in the console.
 
+![image](https://github.com/user-attachments/assets/b56a8887-7628-40bd-8945-2345842d70c7)
+
+
 ## Example Output
 
 Here is an example of what the output might look like:
