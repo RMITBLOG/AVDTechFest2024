@@ -39,7 +39,7 @@ Introducing **EtherAssist.ai**, a Generative AI Technical Assistant for IT profe
 Sign up for a **14-day free trial** at [EtherAssist.ai](https://app.etherassist.ai).
 
 
-<img src="https://github.com/user-attachments/assets/c015e52b-1d4e-4a43-83f5-223b4c932a10" width="300">
+<img src="https://github.com/user-attachments/assets/c015e52b-1d4e-4a43-83f5-223b4c932a10" width="200">
 
 ---
 
