@@ -113,6 +113,9 @@ The MSIX Hero package is configured with the following characteristics:
 - **Secure Full Trust Processes**: Validate the integrity of `msix-hero.exe`. Implement code signing and regular security audits.
 ```
 
+![image](https://github.com/user-attachments/assets/b9a17b7a-05f4-4c64-b55a-b998771357d3)
+
+
 ## Script Breakdown
 
 ### Key Functions
