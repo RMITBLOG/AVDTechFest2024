@@ -107,6 +107,13 @@ This PowerShell script automates the collection and analysis of performance metr
 
 ---
 
+### Example Output
+
+![image](https://github.com/user-attachments/assets/5993578b-ee8a-41fc-8f69-883e4fba2d1c)
+
+
+---
+
 ### **Troubleshooting**
 - **No Data in CSV**
   - **Cause**: Invalid performance counters or insufficient permissions.
