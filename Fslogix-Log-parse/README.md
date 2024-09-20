@@ -18,6 +18,11 @@ This PowerShell script processes large FsLogix log files by splitting them into 
 - **PowerShell**: Ensure PowerShell is installed on your system.
 - **API Keys**: Set your Azure OpenAI and EtherAssist API keys as environment variables if you plan to use those services.
 
+## Diagram
+
+![image](https://github.com/user-attachments/assets/d22645bc-05e2-4a6b-a43e-614d235e32a7)
+
+
 ## Setup
 
 ### 1. Install Required Tools
