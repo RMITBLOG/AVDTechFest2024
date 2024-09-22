@@ -29,7 +29,7 @@ $deploymentName = "GPT4o"  # Replace with your exact deployment name
 $apiVersion = "2024-02-15-preview"  # Use the API version that matches your deployment
 
 # Construct the Azure OpenAI endpoint for Chat Completions
-$openAIEndpoint = "https:/<EnterURL>/openai/deployments/$deploymentName/chat/completions?api-version=$apiVersion"
+$openAIEndpoint = "https://<>/openai/deployments/$deploymentName/chat/completions?api-version=$apiVersion"
 
 # **Security Best Practice:** 
 # Store your API key in an environment variable instead of hardcoding it.
@@ -253,6 +253,9 @@ try {
         $instance = $row.Instance
         $valueString = $row.CookedValue
 
+        # Initialize $value before passing it by reference
+        $value = 0
+
         # Validate if CookedValue is a number
         if ([double]::TryParse($valueString, [ref]$value)) {
             $key = "$counter|$instance"
@@ -309,6 +312,7 @@ catch {
     Write-Error "Failed to aggregate performance data: $_"
     exit 1
 }
+
 
 # -----------------------------
 # Data Preparation for AI Analysis
