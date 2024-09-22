@@ -20,7 +20,8 @@ This PowerShell script processes large FsLogix log files by splitting them into 
 
 ## Diagram
 
-![image](https://github.com/user-attachments/assets/d22645bc-05e2-4a6b-a43e-614d235e32a7)
+
+![image](https://github.com/user-attachments/assets/e27b31ec-a2ea-4557-aaf3-31ae0cb06995)
 
 
 ## Setup

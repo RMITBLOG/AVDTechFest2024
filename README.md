@@ -67,6 +67,9 @@ This repository includes:
 **Contact Information:**
 
 For more information or any inquiries related to the sessions, feel free to reach out.
+
+https://sessionize.com/ryan-mangan/ 
+
 ---
 ---
 ---
